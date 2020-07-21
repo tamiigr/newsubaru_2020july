@@ -118,5 +118,5 @@ Mean value(ch) calculation : 785.717
 TApplication::GetOptions
 $ 
 $ root fed_0032_000000_his.root
-You can also use the 
+You can see a histogram after background subtraction
 ```
